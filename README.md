@@ -18,7 +18,7 @@ $days = 288;
 $message = 'Все возвращаются на работу!';
 
 echo 'Всего дней: ' . $days . ' ' . $message . "<br>"; 
-echo "Всего дней: $days $message";
+echo "Всего дней: {$days} {$message}";
 
 ?>
 ```
