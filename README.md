@@ -22,7 +22,8 @@ echo "Всего дней: {$days} {$message}";
 
 ?>
 ```
-##Результат в браузере
+
+## Результат в браузере
 
 <img width="362" alt="image" src="https://github.com/user-attachments/assets/a0d137cc-1614-473a-8856-6c5a983411b9" />
 
